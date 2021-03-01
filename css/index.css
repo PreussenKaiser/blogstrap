@@ -1,0 +1,12 @@
+/* General */
+div.row {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1em;
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    color: white;
+}
